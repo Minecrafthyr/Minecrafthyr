@@ -1,2 +1,3 @@
 - Minecraft data pack/resource pack creator.
-- Know a bit python.
+- Know a bit of python.
+- Learning modern C++.
