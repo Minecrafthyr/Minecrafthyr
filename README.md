@@ -1,6 +1,6 @@
 - Minecraft data pack/resource pack creator. ([Minecraft Remade](https://github.com/Minecrafthyr/minecraft_remade))
 - Know a bit of python.
-- Learning ~~modern C++~~ C#.
+- Learning C# and Rust.
 
 <details>
   <summary>客观理智学说</summary>
