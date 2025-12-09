@@ -1,3 +1,5 @@
 - Minecraft data pack/resource pack creator.
-  - [Resource Fixes](https://modrinth.com/resourcepack/model-optimizations-and-fixes)
-  - ~~[Minecraft Remade](https://github.com/Minecrafthyr/mcre)~~ (Archived because too large datapack body, may uses new technology in Resource Fixes to refactor code)
+  - [Resource Fixes](https://modrinth.com/resourcepack/resource-fixes-and-tweaks)
+  - ~~[Minecraft Remade](https://github.com/Minecrafthyr/mcre)~~ (Archived because too large datapack body)
+- Writing [Objective Reasoned doucument](https://github.com/Minecrafthyr/ObjectiveReasonedDoucument)
+  - Those are just my thoughts.
