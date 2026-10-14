@@ -19,7 +19,7 @@ sup {
   - [Mindustry](https://github.com/Anuken/Mindustry)
   - [Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)/[Cataclysm-CB](https://github.com/CrimsonCrossBunker/Cataclysm-Cleanwater-Bomb)
 - 思想：[客观理智主义](https://github.com/Minecrafthyr/ObjectiveReasonedDocument)（理智、客观、事实）
-- 简要标签<div style="zoom:100%">
+- 简要标签
   - 理智 <span style="font-size:small">-3 /</span> 2 <span style="font-size:small">/ 3</span>
   - 客观 <span style="font-size:small">-3 /</span> 2<sup>-</sup> <span style="font-size:small">/ 3</span>
   - 事实 <span style="font-size:small">-3 /</span> 1<sup>-</sup> <span style="font-size:small">/ 3</span>
