@@ -1,11 +1,3 @@
-<style>
-
-sup {
-  font-size: 100%
-}
-
-</style>
-
 # 风影
 
 全名：疾风中的暗影
